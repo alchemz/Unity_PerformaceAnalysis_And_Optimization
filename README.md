@@ -1,2 +1,2 @@
 # Unity_PerformaceAnalysis_And_Optimization
-From the GPU perspective to analysis and optimize the game performance with Unity
+This is a project that analysis and optimize the game performance with Unity, from both the GPU perspective and CPU perspective.
