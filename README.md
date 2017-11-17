@@ -21,3 +21,6 @@ https://unity3d.com/learn/tutorials/temas/performance-optimization/diagnosing-pe
 
 ### Find out CPU bound or GPU bound with profile window
 https://unity3d.com/learn/tutorials/temas/performance-optimization/diagnosing-performance-problems-using-profiler-window?playlist=44069
+
+### Game Peformance Report
+https://unity3d.com/learn/tutorials/topics/analytics/getting-started-game-performance-reporting?playlist=17499
