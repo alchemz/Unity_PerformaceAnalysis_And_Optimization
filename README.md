@@ -24,3 +24,6 @@ https://unity3d.com/learn/tutorials/temas/performance-optimization/diagnosing-pe
 
 ## Game Peformance Report
 https://unity3d.com/learn/tutorials/topics/analytics/getting-started-game-performance-reporting?playlist=17499
+
+## Tutorial
+https://software.intel.com/en-us/articles/vr-developer-tutorial-testing-and-profiling-the-premium-vr-game
