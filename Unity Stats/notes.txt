@@ -1,0 +1,32 @@
+4 spots: *Four real-time shadowing spotlights
+*Lightmaps are indirect-only because the real-time
+lights' Bounce Intensity is > 0
+*Valve Camera is set to Indirect Lightmaps Only
+
+bad cases:*A few specific combinations of settings that
+are likely to result in poor or incorrect lighting.
+
+directional: *One real-time directional light on an animation loop
+*Using Precomputed Realtime GI instead of lightmaps -
+high-res directional shadows + dynamic GI
+
+fog: *Demonstration of the Valve Fog script.
+*Both distance and height fog are used here, but can
+also be used independently.
+*Real-time shadow resolution is turned down deliberately
+to achieve the shadow softness that would accompany
+a large area light on the floor.
+
+Lightmap-override: *Valve model in this scene is using a special version
+of its material that overrides its lightmaps with
+a custom image. (In this case, we're reusing
+its AO texture.)
+*Note that models whose materials override
+lightmaps need the Valve Override Lightmap
+Component.
+
+Point light: *Each point light functions internally like six spotlights
+*Therefore, three shadowing point lights can be active at a time
+*Simple, non-directional lightmaps
+*Lightmaps are indirect-only because the real-time
+lights' Bounce Intensity is > 0
