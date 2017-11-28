@@ -27,3 +27,6 @@ https://unity3d.com/learn/tutorials/topics/analytics/getting-started-game-perfor
 
 ## Tutorial
 https://software.intel.com/en-us/articles/vr-developer-tutorial-testing-and-profiling-the-premium-vr-game
+
+## NVIDIA FCAT VR Performance Analysis Tool
+https://www.geforce.com/whats-new/guides/fcat-vr-download-and-how-to-guide
